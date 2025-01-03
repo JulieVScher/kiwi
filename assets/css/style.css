@@ -20,7 +20,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #040404 url("../img/pup.jpg") top right no-repeat;
+  background: #040404 url("../img/pup4.jpg") top right no-repeat;
   background-size: cover;
   left: 0;
   right: 0;
@@ -36,12 +36,12 @@ body::before {
 }
 
 a {
-  color: #18d26e;
+  color: #025227;
   text-decoration: none;
 }
 
 a:hover {
-  color: #35e888;
+  color: #075c2f;
   text-decoration: none;
 }
 
@@ -189,6 +189,7 @@ h6 {
   }
 }
 
+
 /*--------------------------------------------------------------
 # Navigation Menu
 --------------------------------------------------------------*/
@@ -228,7 +229,7 @@ h6 {
   color: rgb(255, 255, 255);
   white-space: nowrap;
   transition: 0.3s;
-  background-color: #ee1e1e56;
+  background-color: #ee1e1ebd;
 }
 
 .navbar a i,
@@ -262,7 +263,7 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #13b613;
+  color: #061806;
 }
 
 /**
