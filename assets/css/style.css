@@ -229,7 +229,7 @@ h6 {
   color: rgb(255, 255, 255);
   white-space: nowrap;
   transition: 0.3s;
-  background-color: #ee1e1ebd;
+  background-color: #ee1e1e8a;
 }
 
 .navbar a i,
@@ -1168,7 +1168,7 @@ section .container {
   padding: 15px;
   text-align: right;
   font-size: 13px;
-  color: #fff;
+  color: #a89d9d;
   z-index: 999999;
 }
 
